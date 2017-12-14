@@ -1,0 +1,23 @@
+section#wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+header {
+    width: 650px;
+    margin-left: auto;
+    text-align: right;
+}
+header h1 {
+    background-color: #eeeeee;
+    border: solid 1px #cccccc;
+}
+footer {
+    border-top: solid 1px #777777;
+    text-align: right;
+    width: 384px;
+    margin-left: auto;
+    margin-top: 80px;
+}
+footer p {
+    font-size: 12px;
+}
